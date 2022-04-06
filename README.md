@@ -1,2 +1,2 @@
 # angularui
-Angular application for the displaying a the spells
+Angular application for the displaying the spells
